@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: 3D modeling. Data science could be used to collect data on various 3D models and hone in on the details that matter such as topology, uv patterns, quad data, etc... and use this data to create automation tools like auto-riggers for biped creatures or accurate base color mappers, etc.. (anything a studio may need). a real world example of this would be the movie into-the-spiderverse where they used data science to create accurate models that allowed for realistic commic book style lines for 3d models in post-production.
