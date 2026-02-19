@@ -9,3 +9,7 @@ Answer: 3D modeling. Data science could be used to collect data on various 3D mo
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: When you rebase you are rewriting the project history which creates a clean linear sequence of commits. And when merging you are preserving the non-linear history of both branches using merge commits.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning more about the data cleaning process. I've used pandas before so hopefully I can learn something new.
