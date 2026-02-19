@@ -1,3 +1,7 @@
 Q1: Why might we consider using Git?
 
 Answer: We might consider Git to save our work and revisions. This way, not only can we turn in assignments and save them online; but we can also revert back to previous instances of our code if the current version is not working.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: 3D modeling. Data science could be used to collect data on various 3D models and hone in on the details that matter such as topology, uv patterns, quad data, etc... and use this data to create automation tools like auto-riggers for biped creatures or accurate base color mappers, etc.. (anything a studio may need). a real world example of this would be the movie into-the-spiderverse where they used data science to create accurate models that allowed for realistic commic book style lines for 3d models in post-production.
